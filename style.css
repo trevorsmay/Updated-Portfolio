@@ -1,0 +1,257 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+blockquote,
+q {
+    quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+body {
+    background-image: url("beauty-in-nature-daylight-environment-1766828.jpg");
+    background-repeat: no-repeat;
+    position: relative;
+    overflow-y: scroll;
+    background-attachment: fixed;
+}
+
+nav {
+    opacity: .8;
+    border-bottom:  8px solid darkgray;
+}
+
+.card {
+    background-color: darkgrey;
+}
+
+footer {
+    padding: 30px 0;
+    clear: both;
+    font-size: 12px;
+    color: #ffffff;
+    color: #020202;
+    text-align: center;
+    background: #eee;
+    border-top: 8px solid darkgrey;
+    height: 50px;
+    margin-top: 400px;
+    opacity: .8;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+
+i {
+    align-items: center;
+}
+h4 {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Cinzel', serif;
+
+}
+
+.card {
+    float: left;
+    margin-top: 20px;
+}
+
+p {
+    margin-right: 30px;
+}
+
+footer {
+    margin-top: 400px;
+    margin-bottom: 0;
+    text-align: right;
+    font-size: 1em;
+    font-style: italic;
+}
+
+.container {
+    clear: both;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    padding: 30px;
+}
+
+#media {
+    padding: 20px;
+}
+
+li {
+    color: #fff;
+}
+
+i {
+    padding: 20px;
+    font-size: 70px;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+i:hover {
+    opacity: 0.7;
+}
+
+#submit {
+    float: right;
+    margin-top: 20px;
+}
+
+button {
+    background-color: darkgray;
+    margin-top: 20px;
+}
+
+#contone {
+    margin-top: 400px;
+}
+
+#contthree {
+    margin-top: 400px;
+}
+
+#contfour {
+    margin-top: 400px;
+}
+
+#contfive {
+    margin-top: 400px;
+}
+
+.navbar-brand {
+    margin-left: 50px;
+}
