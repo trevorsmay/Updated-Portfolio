@@ -202,7 +202,10 @@ footer {
     clear: both;
     margin-top: 40px;
     margin-bottom: 30px;
-    padding: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 300px;
 }
 
 #media {
@@ -238,20 +241,25 @@ button {
 
 #contone {
     margin-top: 400px;
+    background-color: #dcdcdc;
 }
 
 #contthree {
     margin-top: 400px;
+    background-color: #dcdcdc;
 }
 
 #contfour {
     margin-top: 400px;
+    background-color: #dcdcdc;
 }
 
 #contfive {
     margin-top: 400px;
+    background-color: #dcdcdc;
 }
 
 .navbar-brand {
     margin-left: 50px;
 }
+
