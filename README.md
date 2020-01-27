@@ -4,7 +4,7 @@ Here is a more updated take on my portfolio. The page utilizes new technologies 
 
 ## Deployment 
 
-To deploy this version of my portfolio, download the code and run the index.html in your browser or click the url in my GitHub Repository. 
+To deploy this version of my portfolio, download the code and run the index.html in your browser or click the url in my GitHub Repository. https://trevorsmay.github.io/Updated-Portfolio/
 
 ## Built With 
 
